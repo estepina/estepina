@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=estepina&hide_clan=true)
+
